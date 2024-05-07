@@ -23,6 +23,6 @@ Hi 👋
     <a href="https://github.com/evsantana/round-robin">Simple implementation of the Round Robin algorithm</a>
   </li>
   <li>
-    <a href="[https://github.com/evsantana/round-robin](https://github.com/evsantana/two-sum)">Two Sum using Dictionary</a>
+    [https://github.com/evsantana/round-robin](https://github.com/evsantana/two-sum)
   </li>  
 </ul>
