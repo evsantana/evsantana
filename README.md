@@ -26,3 +26,11 @@ Hi 👋
     <a href="https://github.com/evsantana/two-sum">Two Sum using Dictionary</a>
   </li>  
 </ul>
+
+
+### Design Patterns (GoF)
+<ul>
+  <li>
+    <a href="https://github.com/evsantana/gof-factory-method">Factory Method</a>
+  </li>
+</ul>
