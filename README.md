@@ -33,4 +33,7 @@ Hi 👋
   <li>
     <a href="https://github.com/evsantana/gof-factory-method">Factory Method</a>
   </li>
+  <li>
+    <a href="https://github.com/evsantana/gof-abstract-factory">Abstract Factory Method</a>
+  </li>
 </ul>
