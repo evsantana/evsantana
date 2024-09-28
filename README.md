@@ -36,4 +36,7 @@ Hi 👋
   <li>
     <a href="https://github.com/evsantana/gof-abstract-factory">Abstract Factory Method</a>
   </li>
+  <li>
+    <a href="https://github.com/evsantana/gof-adapter">Adapter</a>
+  </li>  
 </ul>
