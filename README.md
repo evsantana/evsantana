@@ -28,7 +28,7 @@ Hi 👋
 </ul>
 
 
-### Design Patterns (GoF)
+### Design Patterns
 <ul>
   <li>
     <a href="https://github.com/evsantana/gof-factory-method">Factory Method</a>
@@ -39,4 +39,7 @@ Hi 👋
   <li>
     <a href="https://github.com/evsantana/gof-adapter">Adapter</a>
   </li>  
+  <li>
+    <a href="https://github.com/evsantana/design-pattern-state">State</a>
+  </li>    
 </ul>
