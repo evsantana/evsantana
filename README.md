@@ -42,4 +42,7 @@ Hi 👋
   <li>
     <a href="https://github.com/evsantana/design-pattern-state">State</a>
   </li>    
+  <li>
+    <a href="https://github.com/evsantana/design-pattern-mediator">Mediator</a>
+  </li>   
 </ul>
